@@ -1,14 +1,14 @@
 {
-  "name": "n8n-example",
+  "name": "n8n-asphalte",
   "version": "1.0.0",
-  "description": "Example deployment for n8n on Clever Cloud",
+  "description": "Asphalte deployment for n8n on Clever Cloud",
   "main": "index.js",
   "scripts": {
     "start": "npx n8n"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CleverCloud/n8n-example.git"
+    "url": "git+https://github.com/Asphalte-Tech/n8n-asphalte.git"
   },
   "keywords": [
     "n8n",
@@ -16,13 +16,9 @@
     "clever",
     "clever.cloud"
   ],
-  "author": "Horacio Gonzalez <horacio.gonzalez@clever-cloud.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/CleverCloud/n8n-example/issues"
-  },
-  "homepage": "https://github.com/CleverCloud/n8n-example#readme",
+  "homepage": "https://github.com/Asphalte-Tech/n8n-example#readme",
   "dependencies": {
-    "n8n": "^1.82.3"
+    "n8n": "^1.102.3"
   }
 }
